@@ -1,0 +1,36 @@
+.downloading-animation
+{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    animation: name duration timing-function delay iteration-count direction fill-mode;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.downloading-animation i
+{
+    color: aqua;
+    font-size: 25px;
+}
+.stage2
+{
+    border: 2px solid gray;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    
+}
+
+.stage3
+{
+    border: 2px dashed aqua;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+}
+
+.stage4
+{
+    
+}
